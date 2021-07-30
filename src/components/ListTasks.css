@@ -1,0 +1,13 @@
+
+.deletetask-btn {
+    background-color: tomato;
+    color: #fff;
+    padding: 5px 10px;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    margin-left: 10px;
+}
+
+.list-tasks {
+    list-style-type: none;
+}
